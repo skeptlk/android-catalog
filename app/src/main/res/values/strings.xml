@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TheCatalog</string>
+
+    <string name="title_field">Title</string>
+    <string name="description_field">Description</string>
+    <string name="manufacture_date_field">Manufacture date</string>
+    <string name="price_field">Price</string>
+
+    <string name="btn_save">Save</string>
+
+    <string name="edit_catalog_record">Edit record:</string>
+    <string name="new_catalog_record">New record:</string>
+
+    <string name="error_fill_all_fields">Please, fill all fields!</string>
+    <string name="add_category">Add new category</string>
+    <string name="add_new_subcategory">Add new subcategory</string>
+    <string name="add_category_prompt">Enter name of the new category</string>
+    <string name="edit_category_prompt">Rename category: </string>
+    <string name="edit_subcategory_name">Rename subcategory: </string>
+
+</resources>
